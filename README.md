@@ -1,5 +1,7 @@
 # Stepper-Motor-Controller-PCB
-This board allows users to drive a stepper motor using a microcontroller, incorporating limit switch detection for homing and end-stop functionality. It is ideal for CNC machines, 3D printers, robotics, and automation projects.                                                                                                                           .
+This board allows users to drive a stepper motor using a microcontroller, incorporating limit switch detection for homing and end-stop functionality. It is ideal for CNC machines, 3D printers, robotics, and automation projects.                                                                                                                          
+
+
 3D view of the board
 ![image](https://github.com/user-attachments/assets/8497ccc3-34ed-438b-8b6e-d3bafbafa96a)
 
